@@ -1,0 +1,25 @@
+{
+  "name": "youtube-thumbnail-animate",
+  "version": "1.0.0",
+  "description": "Get the animated youtube thumbnail with video Id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienBounoir/youtube-thumbnail-animate.git"
+  },
+  "keywords": [
+    "youtube",
+    "thumbnail",
+    "ytb",
+    "animated-thumbnail"
+  ],
+  "author": "Fabien Bounoir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabienBounoir/youtube-thumbnail-animate/issues"
+  },
+  "homepage": "https://github.com/FabienBounoir/youtube-thumbnail-animate#readme"
+}
