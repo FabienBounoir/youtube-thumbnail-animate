@@ -1,6 +1,6 @@
 {
   "name": "youtube-thumbnail-animate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the animated youtube thumbnail with video Id",
   "main": "index.js",
   "scripts": {
